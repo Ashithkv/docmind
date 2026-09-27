@@ -1,6 +1,6 @@
 # DocMind — RAG Document Q&A
 
-DocMind is a small, fully working Retrieval-Augmented Generation (RAG) application.
+DocMind, fully working Retrieval-Augmented Generation (RAG) application.
 Upload PDF documents, ask natural-language questions about them, and get answers
 grounded in the documents themselves — with page-level citations, and a clear
 "not found" response when the answer isn't in your documents.
